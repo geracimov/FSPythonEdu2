@@ -1,0 +1,4 @@
+#PyCharm settings
+.idea/
+#tests
+test*.py
